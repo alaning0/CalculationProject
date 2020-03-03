@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CalculationProjectTake4": {
+      "commandName": "Project",
+      "commandLineArgs": "12"
+    }
+  }
+}
