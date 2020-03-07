@@ -13,9 +13,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculationProjectTake4", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculationProjectTake4Calculator", "CalculationProjectTake4Calculator\CalculationProjectTake4Calculator.csproj", "{5CDD4606-D3A2-4681-8C41-D7F1EB264604}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssemblyHost0", "AssemblyHost0\AssemblyHost0.csproj", "{A5BB5650-2F84-4D8B-A142-90F9BF74CD8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AssemblyHost0", "AssemblyHost0\AssemblyHost0.csproj", "{A5BB5650-2F84-4D8B-A142-90F9BF74CD8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssemblyHost00", "AssemblyHost00\AssemblyHost00.csproj", "{9050AA10-7C22-4E3F-A0DE-1BE7E9EB393B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AssemblyHost00", "AssemblyHost00\AssemblyHost00.csproj", "{9050AA10-7C22-4E3F-A0DE-1BE7E9EB393B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculationProjectTake5API", "CalculationProjectTake5API\CalculationProjectTake5API.csproj", "{26927F19-526A-4E45-8190-A51884055A56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculationProjectTake5", "CalculationProjectTake5\CalculationProjectTake5.csproj", "{C259E495-F4C2-4B97-8C89-5D7C7143EC3A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,14 @@ Global
 		{9050AA10-7C22-4E3F-A0DE-1BE7E9EB393B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9050AA10-7C22-4E3F-A0DE-1BE7E9EB393B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9050AA10-7C22-4E3F-A0DE-1BE7E9EB393B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26927F19-526A-4E45-8190-A51884055A56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26927F19-526A-4E45-8190-A51884055A56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26927F19-526A-4E45-8190-A51884055A56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26927F19-526A-4E45-8190-A51884055A56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C259E495-F4C2-4B97-8C89-5D7C7143EC3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C259E495-F4C2-4B97-8C89-5D7C7143EC3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C259E495-F4C2-4B97-8C89-5D7C7143EC3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C259E495-F4C2-4B97-8C89-5D7C7143EC3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

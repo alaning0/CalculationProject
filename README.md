@@ -11,6 +11,8 @@ This is demonstrated in CalculationProjectTake1-4
 | CalculationProjectTake2 | Calculation code is written in its own method as part of the same class |
 | CalculationProjectTake3 | Calculation code is written in its own class as part of the same namespace (visual studio project) |
 | CalculationProjectTake4 | Calculation code is written in its own project as part of the same visual studio solution. <br> The Calculation code in its own project is called from the main project through a project reference |
+| CalculationProjectTake5 | Calculation code is written in a different visual studio solution. Actually no wait, same solution. Different project. Different computer. Remotely. It's a web api |
+
 
 The ultimate goal here however is to use Assembly loading techniques to run existing compiled code, as demonstrated in the projects 
  - AssemblyHost0
